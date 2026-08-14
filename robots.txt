@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ncyhqf.antam89.site/sitemap.xml
